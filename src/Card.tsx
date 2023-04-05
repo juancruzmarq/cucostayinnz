@@ -43,7 +43,7 @@ export const Card: React.FC<CardProps> = ({ noticia }: CardProps) => {
           <img
             src={`${noticia.img}`}
             alt="Berni"
-            className="rounded-md shadow-2xl shadow-black/20 backdrop-blur-xl"
+            className="rounded-md shadow-2xl shadow-black/20 backdrop-blur-xl w-[80%]"
           />
         </div>
         <div className="flex flex-col">

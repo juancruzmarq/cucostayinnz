@@ -1,19 +1,32 @@
-import React from "react";
-
-export const ColorsInfo = () => {
+interface ColorInfo {
+  colorPicker: (color: string) => void;
+}
+export const ColorsInfo: React.FC<ColorInfo> = ({ colorPicker }: ColorInfo) => {
   return (
     <div className="flex flex-row justify-center items-center md:gap-4 mt-5 rounded-lg space-x-5 md:space-x-10">
       <div className="flex flex-col justify-center items-center gap-2">
-        <div className="w-3 h-3  md:w-5 md:h-5 rounded-full bg-green-primary"></div>
-        <text className="text-white-primary">😁</text>
+        <button
+          onClick={() => colorPicker("MIN")}
+          className=" bg-green-primary w-11 h-11 rounded-full shadow-md shadow-green-primary/30 border-white/60 border"
+        >
+          <text className="text-white-primary text-2xl">😁</text>
+        </button>
       </div>
       <div className="flex flex-col justify-center items-center gap-2">
-        <div className="w-3 h-3  md:w-5 md:h-5 rounded-full bg-blue-primary text-center justify-center align-middle justify-items-center"></div>
-        <text className="text-white-primary">😐</text>
+        <button
+          onClick={() => colorPicker("MED")}
+          className=" bg-blue-primary w-11 h-11 rounded-full shadow-md shadow-blue-primary/30 border-white/60 border"
+        >
+          <text className="text-white-primary text-2xl">😐</text>
+        </button>
       </div>
       <div className="flex flex-col justify-center items-center gap-2">
-        <div className="w-3 h-3  md:w-5 md:h-5 rounded-full bg-red-primary"></div>
-        <text className="text-white-primary">😭</text>
+        <button
+          onClick={() => colorPicker("MAX")}
+          className=" bg-red-primary w-11 h-11 rounded-full shadow-md shadow-red-primary/30 border-white/60 border"
+        >
+          <text className="text-white-primary text-2xl">😭</text>
+        </button>
       </div>
     </div>
   );
