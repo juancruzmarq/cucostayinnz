@@ -1,0 +1,34 @@
+[
+  {
+    "id": 0,
+    "title": "Ataque a Sergio Berni",
+    "date": "03/03/2023",
+    "description": " El ministro de Seguridad de la Nación, Sergio Berni, acudió al corte que realizan los choferes de la línea 620 y recibió golpes que le causaron heridas; la Policía de la Ciudad lo rescató del lugar",
+    "img": "https://pbs.twimg.com/media/FszNZx7XgAg-1eQ?format=jpg&name=medium",
+    "twitter": "https://twitter.com/therealbuni/status/1642904341056049155?s=20",
+    "youtube": "https://www.youtube.com/watch?v=8IGY_sHiYig&ab_channel=TodoNoticias",
+    "nivel": "MAX"
+  },
+
+  {
+    "id": 1,
+    "title": "Ataque a Sergio Berni",
+    "date": "03/03/2023",
+    "description": " El ministro de Seguridad de la Nación, Sergio Berni, acudió al corte que realizan los choferes de la línea 620 y recibió golpes que le causaron heridas; la Policía de la Ciudad lo rescató del lugar",
+    "img": "https://pbs.twimg.com/media/FszNZx7XgAg-1eQ?format=jpg&name=medium",
+    "twitter": "https://twitter.com/therealbuni/status/1642904341056049155?s=20",
+    "youtube": "https://www.youtube.com/watch?v=8IGY_sHiYig&ab_channel=TodoNoticias",
+    "nivel": "MIN"
+  },
+
+  {
+    "id": 1,
+    "title": "Ataque a Sergio Berni",
+    "date": "03/03/2023",
+    "description": " El ministro de Seguridad de la Nación, Sergio Berni, acudió al corte que realizan los choferes de la línea 620 y recibió golpes que le causaron heridas; la Policía de la Ciudad lo rescató del lugar",
+    "img": "https://pbs.twimg.com/media/FszNZx7XgAg-1eQ?format=jpg&name=medium",
+    "twitter": "https://twitter.com/therealbuni/status/1642904341056049155?s=20",
+    "youtube": "https://www.youtube.com/watch?v=8IGY_sHiYig&ab_channel=TodoNoticias",
+    "nivel": "MED"
+  }
+]
