@@ -2,7 +2,7 @@
   {
     "id": 0,
     "title": "Ataque a Sergio Berni",
-    "date": "03/03/2023",
+    "date": "03/04/2023",
     "description": " El ministro de Seguridad de la Nación, Sergio Berni, acudió al corte que realizan los choferes de la línea 620 y recibió golpes que le causaron heridas; la Policía de la Ciudad lo rescató del lugar",
     "img": "https://pbs.twimg.com/media/FszNZx7XgAg-1eQ?format=jpg&name=medium",
     "twitter": "https://twitter.com/therealbuni/status/1642904341056049155?s=20",
@@ -12,23 +12,12 @@
 
   {
     "id": 1,
-    "title": "Ataque a Sergio Berni",
-    "date": "03/03/2023",
-    "description": " El ministro de Seguridad de la Nación, Sergio Berni, acudió al corte que realizan los choferes de la línea 620 y recibió golpes que le causaron heridas; la Policía de la Ciudad lo rescató del lugar",
-    "img": "https://pbs.twimg.com/media/FszNZx7XgAg-1eQ?format=jpg&name=medium",
-    "twitter": "https://twitter.com/therealbuni/status/1642904341056049155?s=20",
-    "youtube": "https://www.youtube.com/watch?v=8IGY_sHiYig&ab_channel=TodoNoticias",
-    "nivel": "MIN"
-  },
-
-  {
-    "id": 1,
-    "title": "Ataque a Sergio Berni",
-    "date": "03/03/2023",
-    "description": " El ministro de Seguridad de la Nación, Sergio Berni, acudió al corte que realizan los choferes de la línea 620 y recibió golpes que le causaron heridas; la Policía de la Ciudad lo rescató del lugar",
-    "img": "https://pbs.twimg.com/media/FszNZx7XgAg-1eQ?format=jpg&name=medium",
-    "twitter": "https://twitter.com/therealbuni/status/1642904341056049155?s=20",
-    "youtube": "https://www.youtube.com/watch?v=8IGY_sHiYig&ab_channel=TodoNoticias",
+    "title": "Kun Agüero enojado con la Aduana",
+    "date": "30/03/2023",
+    "description": "El Kun explicó su enojo y cómo lo sufre en carne propia: “La ropa para los jugadores de Krü Esports la tengo que llevar yo en una valija y no es para vender, es para los chicos. Mandamos todo a la Argentina y la Aduana te pide el código de cada remera; si vos tenés mil remeras, ¿sabés lo que es pasar los códigos uno por uno? Remera, pantalón, mochila... Mandamos todo y quedó en la Aduana más de nueve meses",
+    "img": "https://www.clarin.com/img/2023/03/30/k8UqFXnIu_2000x1500__1.jpg",
+    "twitter": "https://twitter.com/PregoneroL/status/1641495016492130315?s=20",
+    "youtube": "https://www.youtube.com/watch?v=_VF80JLxDMY&ab_channel=AvellanedaReal",
     "nivel": "MED"
   }
 ]

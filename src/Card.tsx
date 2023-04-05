@@ -78,7 +78,7 @@ export const Card: React.FC<CardProps> = ({ noticia }: CardProps) => {
           </div>
           <div className="w-[100%] justify-end items-end justify-items-end flex">
             <div
-              className={`h-5 w-5 sm:h-8 sm:w-8 rounded-full  ${color}`}
+              className={`h-5 w-5 sm:h-8 sm:w-8 rounded-full shadow-inner ${shadowColor} ${color}`}
             ></div>
           </div>
         </div>
